@@ -1,0 +1,14 @@
+name = FISMA User
+description = FISMA User functions.
+core = 7.x
+
+configure = 'admin/config/people/fisma'
+dependencies[] = 'user'
+dependencies[] = 'elements'
+
+; Information added by Drupal.org packaging script on 2017-03-10
+version = "7.x-1.x-dev"
+core = "7.x"
+project = "fisma_user"
+datestamp = "1489177689"
+
